@@ -1,0 +1,12 @@
+ .div-img {
+	width: 10em;
+	height: 10em;
+	margin: 3em;
+	float: left;
+	padding: auto;
+}
+img {
+	width: 9em;
+	height: 6.75em;
+	margin: auto;
+}
